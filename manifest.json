@@ -1,6 +1,6 @@
 {
-    "name": "responsive_login",
-    "short_name": "responsive_login",
+    "name": "responsive_login_web",
+    "short_name": "responsive_login_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
